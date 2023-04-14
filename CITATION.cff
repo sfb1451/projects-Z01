@@ -9,8 +9,8 @@ abstract: The central office coordinates and promotes the scientific interaction
 authors:
 - {family-names: Fink, given-names: Gereon}
 - {family-names: Daun, given-names: Silvia}
-- {family-names: grefkes, given-names: Christian}
+- {family-names: Grefkes, given-names: Christian}
 - {family-names: Stark, given-names: Christina}
 cff-version: 1.2.0
 message: Generated with data scraped from crc1451.uni-koeln.de
-title: Central Office
+title: 'Z01: Central Office'

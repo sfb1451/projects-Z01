@@ -1,0 +1,16 @@
+abstract: The central office coordinates and promotes the scientific interactions
+  within the CRC, the national and international outreach, and public relations. Its
+  tasks include the recruitment and integration of new CRC members (students, technicians,
+  postdocs, junior research group leaders, and clinician-scientists) and the promotion
+  of early-career researchers, gender equality, and diversity. Further, Z01 strengthens
+  the interactions and exchanges of expertise between and across projects of the different
+  research areas and ensures adherence to good scientific practice and encourages
+  open data access.
+authors:
+- {family-names: Fink, given-names: Gereon}
+- {family-names: Daun, given-names: Silvia}
+- {family-names: Grefkes, given-names: Christian}
+- {family-names: Stark, given-names: Christina}
+cff-version: 1.2.0
+message: Generated with data scraped from crc1451.uni-koeln.de
+title: 'Z01: Central Office'
